@@ -1,0 +1,539 @@
+Question ID,Value,Label
+A1a,1,Very satisfied
+A1a,2,Moderately satisfied
+A1a,3,Mildly satisfied
+A1a,4,Neither satisfied nor dissatisfied
+A1a,5,Mildly dissatisfied
+A1a,6,Moderately dissatisfied
+A1a,7,Very dissatisfied
+A1b,1,Very satisfied
+A1b,2,Moderately satisfied
+A1b,3,Mildly satisfied
+A1b,4,Neither satisfied nor dissatisfied
+A1b,5,Mildly dissatisfied
+A1b,6,Moderately dissatisfied
+A1b,7,Very dissatisfied
+A2a,1,Strongly agree
+A2a,2,Moderately agree
+A2a,3,Mildly agree
+A2a,4,Neither agree nor disagree
+A2a,5,Mildly disagree
+A2a,6,Moderately disagree
+A2a,7,Strongly disagree
+A2a,8,Do not know or does not apply
+A2b,1,Strongly agree
+A2b,2,Moderately agree
+A2b,3,Mildly agree
+A2b,4,Neither agree nor disagree
+A2b,5,Mildly disagree
+A2b,6,Moderately disagree
+A2b,7,Strongly disagree
+A2b,8,Do not know or does not apply
+A2c,1,Strongly agree
+A2c,2,Moderately agree
+A2c,3,Mildly agree
+A2c,4,Neither agree nor disagree
+A2c,5,Mildly disagree
+A2c,6,Moderately disagree
+A2c,7,Strongly disagree
+A2c,8,Do not know or does not apply
+A2d,1,Strongly agree
+A2d,2,Moderately agree
+A2d,3,Mildly agree
+A2d,4,Neither agree nor disagree
+A2d,5,Mildly disagree
+A2d,6,Moderately disagree
+A2d,7,Strongly disagree
+A2d,8,Do not know or does not apply
+A2e,1,Strongly agree
+A2e,2,Moderately agree
+A2e,3,Mildly agree
+A2e,4,Neither agree nor disagree
+A2e,5,Mildly disagree
+A2e,6,Moderately disagree
+A2e,7,Strongly disagree
+A2e,8,Do not know or does not apply
+A2f,1,Strongly agree
+A2f,2,Moderately agree
+A2f,3,Mildly agree
+A2f,4,Neither agree nor disagree
+A2f,5,Mildly disagree
+A2f,6,Moderately disagree
+A2f,7,Strongly disagree
+A2f,8,Do not know or does not apply
+A2g,1,Strongly agree
+A2g,2,Moderately agree
+A2g,3,Mildly agree
+A2g,4,Neither agree nor disagree
+A2g,5,Mildly disagree
+A2g,6,Moderately disagree
+A2g,7,Strongly disagree
+A2g,8,Do not know or does not apply
+A2h,1,Strongly agree
+A2h,2,Moderately agree
+A2h,3,Mildly agree
+A2h,4,Neither agree nor disagree
+A2h,5,Mildly disagree
+A2h,6,Moderately disagree
+A2h,7,Strongly disagree
+A2h,8,Do not know or does not apply
+A3a,1,Strongly agree
+A3a,2,Moderately agree
+A3a,3,Mildly agree
+A3a,4,Neither agree nor disagree
+A3a,5,Mildly disagree
+A3a,6,Moderately disagree
+A3a,7,Strongly disagree
+A3a,8,Do not know or does not apply
+A3b,1,Strongly agree
+A3b,2,Moderately agree
+A3b,3,Mildly agree
+A3b,4,Neither agree nor disagree
+A3b,5,Mildly disagree
+A3b,6,Moderately disagree
+A3b,7,Strongly disagree
+A3b,8,Do not know or does not apply
+A3c,1,Strongly agree
+A3c,2,Moderately agree
+A3c,3,Mildly agree
+A3c,4,Neither agree nor disagree
+A3c,5,Mildly disagree
+A3c,6,Moderately disagree
+A3c,7,Strongly disagree
+A3c,8,Do not know or does not apply
+A3d,1,Strongly agree
+A3d,2,Moderately agree
+A3d,3,Mildly agree
+A3d,4,Neither agree nor disagree
+A3d,5,Mildly disagree
+A3d,6,Moderately disagree
+A3d,7,Strongly disagree
+A3d,8,Do not know or does not apply
+A3e,1,Strongly agree
+A3e,2,Moderately agree
+A3e,3,Mildly agree
+A3e,4,Neither agree nor disagree
+A3e,5,Mildly disagree
+A3e,6,Moderately disagree
+A3e,7,Strongly disagree
+A3e,8,Do not know or does not apply
+A3f,1,Strongly agree
+A3f,2,Moderately agree
+A3f,3,Mildly agree
+A3f,4,Neither agree nor disagree
+A3f,5,Mildly disagree
+A3f,6,Moderately disagree
+A3f,7,Strongly disagree
+A3f,8,Do not know or does not apply
+A3g,1,Strongly agree
+A3g,2,Moderately agree
+A3g,3,Mildly agree
+A3g,4,Neither agree nor disagree
+A3g,5,Mildly disagree
+A3g,6,Moderately disagree
+A3g,7,Strongly disagree
+A3g,8,Do not know or does not apply
+A3h,1,Strongly agree
+A3h,2,Moderately agree
+A3h,3,Mildly agree
+A3h,4,Neither agree nor disagree
+A3h,5,Mildly disagree
+A3h,6,Moderately disagree
+A3h,7,Strongly disagree
+A3h,8,Do not know or does not apply
+A3i,1,Strongly agree
+A3i,2,Moderately agree
+A3i,3,Mildly agree
+A3i,4,Neither agree nor disagree
+A3i,5,Mildly disagree
+A3i,6,Moderately disagree
+A3i,7,Strongly disagree
+A3i,8,Do not know or does not apply
+A3j,1,Strongly agree
+A3j,2,Moderately agree
+A3j,3,Mildly agree
+A3j,4,Neither agree nor disagree
+A3j,5,Mildly disagree
+A3j,6,Moderately disagree
+A3j,7,Strongly disagree
+A3j,8,Do not know or does not apply
+A3k,1,Strongly agree
+A3k,2,Moderately agree
+A3k,3,Mildly agree
+A3k,4,Neither agree nor disagree
+A3k,5,Mildly disagree
+A3k,6,Moderately disagree
+A3k,7,Strongly disagree
+A3k,8,Do not know or does not apply
+A3l,1,Strongly agree
+A3l,2,Moderately agree
+A3l,3,Mildly agree
+A3l,4,Neither agree nor disagree
+A3l,5,Mildly disagree
+A3l,6,Moderately disagree
+A3l,7,Strongly disagree
+A3l,8,Do not know or does not apply
+A3m,1,Strongly agree
+A3m,2,Moderately agree
+A3m,3,Mildly agree
+A3m,4,Neither agree nor disagree
+A3m,5,Mildly disagree
+A3m,6,Moderately disagree
+A3m,7,Strongly disagree
+A3m,8,Do not know or does not apply
+A4,1,The next 12 months
+A4,2,1 to 2 years
+A4,3,No plans to leave my agency within the next 2 years
+A4ai,1,Indicated
+A4aii,1,Indicated
+A4aiii,1,Indicated
+A4aiv,1,Indicated
+A4av,1,Indicated
+A4avi,1,Indicated
+A4avii,1,Indicated
+B1a,1,Strongly agree
+B1a,2,Moderately agree
+B1a,3,Mildly agree
+B1a,4,Neither agree nor disagree
+B1a,5,Mildly disagree
+B1a,6,Moderately disagree
+B1a,7,Strongly disagree
+B1a,8,Do not know or does not apply
+B1b,1,Strongly agree
+B1b,2,Moderately agree
+B1b,3,Mildly agree
+B1b,4,Neither agree nor disagree
+B1b,5,Mildly disagree
+B1b,6,Moderately disagree
+B1b,7,Strongly disagree
+B1b,8,Do not know or does not apply
+B2a,1,Strongly agree
+B2a,2,Moderately agree
+B2a,3,Mildly agree
+B2a,4,Neither agree nor disagree
+B2a,5,Mildly disagree
+B2a,6,Moderately disagree
+B2a,7,Strongly disagree
+B2a,8,Do not know or does not apply
+B2b,1,Strongly agree
+B2b,2,Moderately agree
+B2b,3,Mildly agree
+B2b,4,Neither agree nor disagree
+B2b,5,Mildly disagree
+B2b,6,Moderately disagree
+B2b,7,Strongly disagree
+B2b,8,Do not know or does not apply
+B2c,1,Strongly agree
+B2c,2,Moderately agree
+B2c,3,Mildly agree
+B2c,4,Neither agree nor disagree
+B2c,5,Mildly disagree
+B2c,6,Moderately disagree
+B2c,7,Strongly disagree
+B2c,8,Do not know or does not apply
+B2d,1,Strongly agree
+B2d,2,Moderately agree
+B2d,3,Mildly agree
+B2d,4,Neither agree nor disagree
+B2d,5,Mildly disagree
+B2d,6,Moderately disagree
+B2d,7,Strongly disagree
+B2d,8,Do not know or does not apply
+B3a,1,Strongly agree
+B3a,2,Moderately agree
+B3a,3,Mildly agree
+B3a,4,Neither agree nor disagree
+B3a,5,Mildly disagree
+B3a,6,Moderately disagree
+B3a,7,Strongly disagree
+B3a,8,Do not know or does not apply
+B3b,1,Strongly agree
+B3b,2,Moderately agree
+B3b,3,Mildly agree
+B3b,4,Neither agree nor disagree
+B3b,5,Mildly disagree
+B3b,6,Moderately disagree
+B3b,7,Strongly disagree
+B3b,8,Do not know or does not apply
+B3c,1,Strongly agree
+B3c,2,Moderately agree
+B3c,3,Mildly agree
+B3c,4,Neither agree nor disagree
+B3c,5,Mildly disagree
+B3c,6,Moderately disagree
+B3c,7,Strongly disagree
+B3c,8,Do not know or does not apply
+B3d,1,Strongly agree
+B3d,2,Moderately agree
+B3d,3,Mildly agree
+B3d,4,Neither agree nor disagree
+B3d,5,Mildly disagree
+B3d,6,Moderately disagree
+B3d,7,Strongly disagree
+B3d,8,Do not know or does not apply
+B4a,1,Strongly agree
+B4a,2,Moderately agree
+B4a,3,Mildly agree
+B4a,4,Neither agree nor disagree
+B4a,5,Mildly disagree
+B4a,6,Moderately disagree
+B4a,7,Strongly disagree
+B4a,8,Do not know or does not apply
+B4b,1,Strongly agree
+B4b,2,Moderately agree
+B4b,3,Mildly agree
+B4b,4,Neither agree nor disagree
+B4b,5,Mildly disagree
+B4b,6,Moderately disagree
+B4b,7,Strongly disagree
+B4b,8,Do not know or does not apply
+B4c,1,Strongly agree
+B4c,2,Moderately agree
+B4c,3,Mildly agree
+B4c,4,Neither agree nor disagree
+B4c,5,Mildly disagree
+B4c,6,Moderately disagree
+B4c,7,Strongly disagree
+B4c,8,Do not know or does not apply
+B4d,1,Strongly agree
+B4d,2,Moderately agree
+B4d,3,Mildly agree
+B4d,4,Neither agree nor disagree
+B4d,5,Mildly disagree
+B4d,6,Moderately disagree
+B4d,7,Strongly disagree
+B4d,8,Do not know or does not apply
+B5a,1,Strongly agree
+B5a,2,Moderately agree
+B5a,3,Mildly agree
+B5a,4,Neither agree nor disagree
+B5a,5,Mildly disagree
+B5a,6,Moderately disagree
+B5a,7,Strongly disagree
+B5a,8,Do not know or does not apply
+B5b,1,Strongly agree
+B5b,2,Moderately agree
+B5b,3,Mildly agree
+B5b,4,Neither agree nor disagree
+B5b,5,Mildly disagree
+B5b,6,Moderately disagree
+B5b,7,Strongly disagree
+B5b,8,Do not know or does not apply
+B5c,1,Strongly agree
+B5c,2,Moderately agree
+B5c,3,Mildly agree
+B5c,4,Neither agree nor disagree
+B5c,5,Mildly disagree
+B5c,6,Moderately disagree
+B5c,7,Strongly disagree
+B5c,8,Do not know or does not apply
+B5d,1,Strongly agree
+B5d,2,Moderately agree
+B5d,3,Mildly agree
+B5d,4,Neither agree nor disagree
+B5d,5,Mildly disagree
+B5d,6,Moderately disagree
+B5d,7,Strongly disagree
+B5d,8,Do not know or does not apply
+B6,1,Yes
+B6,2,No
+B6,3,"No, but know where to find out"
+B7a,1,Indicated
+B7b,1,Indicated
+B7c,1,Indicated
+B7d,1,Indicated
+B7e,1,Indicated
+B8,1,Yes
+B8,2,No
+B8,3,Have been employed by my agency for less than 12 months
+B8ai,1,Indicated
+B8aii,1,Indicated
+B8aiii,1,Indicated
+B8aiv,1,Indicated
+B8av,1,Indicated
+B8avi,1,Indicated
+B8avii,1,Indicated
+B9,1,Fortnightly or more frequently
+B9,2,Monthly
+B9,3,Six monthly
+B9,4,Annually
+B9,5,Never
+B9,6,Unsure
+C1a,1,Strongly agree
+C1a,2,Moderately agree
+C1a,3,Mildly agree
+C1a,4,Neither agree nor disagree
+C1a,5,Mildly disagree
+C1a,6,Moderately disagree
+C1a,7,Strongly disagree
+C1a,8,Do not know or does not apply
+C1b,1,Strongly agree
+C1b,2,Moderately agree
+C1b,3,Mildly agree
+C1b,4,Neither agree nor disagree
+C1b,5,Mildly disagree
+C1b,6,Moderately disagree
+C1b,7,Strongly disagree
+C1b,8,Do not know or does not apply
+C1c,1,Strongly agree
+C1c,2,Moderately agree
+C1c,3,Mildly agree
+C1c,4,Neither agree nor disagree
+C1c,5,Mildly disagree
+C1c,6,Moderately disagree
+C1c,7,Strongly disagree
+C1c,8,Do not know or does not apply
+C1d,1,Strongly agree
+C1d,2,Moderately agree
+C1d,3,Mildly agree
+C1d,4,Neither agree nor disagree
+C1d,5,Mildly disagree
+C1d,6,Moderately disagree
+C1d,7,Strongly disagree
+C1d,8,Do not know or does not apply
+C1e,1,Strongly agree
+C1e,2,Moderately agree
+C1e,3,Mildly agree
+C1e,4,Neither agree nor disagree
+C1e,5,Mildly disagree
+C1e,6,Moderately disagree
+C1e,7,Strongly disagree
+C1e,8,Do not know or does not apply
+C1f,1,Strongly agree
+C1f,2,Moderately agree
+C1f,3,Mildly agree
+C1f,4,Neither agree nor disagree
+C1f,5,Mildly disagree
+C1f,6,Moderately disagree
+C1f,7,Strongly disagree
+C1f,8,Do not know or does not apply
+C1g,1,Strongly agree
+C1g,2,Moderately agree
+C1g,3,Mildly agree
+C1g,4,Neither agree nor disagree
+C1g,5,Mildly disagree
+C1g,6,Moderately disagree
+C1g,7,Strongly disagree
+C1g,8,Do not know or does not apply
+C2,1,Yes
+C2,2,No
+C3,1,Yes
+C3,2,No
+C4a,1,Never
+C4a,2,Rarely (1 to 3 occasions)
+C4a,3,Sometimes (4 to 6 occasions)
+C4a,4,Frequently (7 to 10 occasions)
+C4a,5,Very frequently (more than 10 occasions)
+C4b,1,Never
+C4b,2,Rarely (1 to 3 occasions)
+C4b,3,Sometimes (4 to 6 occasions)
+C4b,4,Frequently (7 to 10 occasions)
+C4b,5,Very frequently (more than 10 occasions)
+C4c,1,Never
+C4c,2,Rarely (1 to 3 occasions)
+C4c,3,Sometimes (4 to 6 occasions)
+C4c,4,Frequently (7 to 10 occasions)
+C4c,5,Very frequently (more than 10 occasions)
+C4d,1,Never
+C4d,2,Rarely (1 to 3 occasions)
+C4d,3,Sometimes (4 to 6 occasions)
+C4d,4,Frequently (7 to 10 occasions)
+C4d,5,Very frequently (more than 10 occasions)
+C4e,1,Never
+C4e,2,Rarely (1 to 3 occasions)
+C4e,3,Sometimes (4 to 6 occasions)
+C4e,4,Frequently (7 to 10 occasions)
+C4e,5,Very frequently (more than 10 occasions)
+C4f,1,Never
+C4f,2,Rarely (1 to 3 occasions)
+C4f,3,Sometimes (4 to 6 occasions)
+C4f,4,Frequently (7 to 10 occasions)
+C4f,5,Very frequently (more than 10 occasions)
+C4g,1,Never
+C4g,2,Rarely (1 to 3 occasions)
+C4g,3,Sometimes (4 to 6 occasions)
+C4g,4,Frequently (7 to 10 occasions)
+C4g,5,Very frequently (more than 10 occasions)
+C4h,1,Never
+C4h,2,Rarely (1 to 3 occasions)
+C4h,3,Sometimes (4 to 6 occasions)
+C4h,4,Frequently (7 to 10 occasions)
+C4h,5,Very frequently (more than 10 occasions)
+C4i,1,Never
+C4i,2,Rarely (1 to 3 occasions)
+C4i,3,Sometimes (4 to 6 occasions)
+C4i,4,Frequently (7 to 10 occasions)
+C4i,5,Very frequently (more than 10 occasions)
+C4j,1,Never
+C4j,2,Rarely (1 to 3 occasions)
+C4j,3,Sometimes (4 to 6 occasions)
+C4j,4,Frequently (7 to 10 occasions)
+C4j,5,Very frequently (more than 10 occasions)
+C4k,1,Never
+C4k,2,Rarely (1 to 3 occasions)
+C4k,3,Sometimes (4 to 6 occasions)
+C4k,4,Frequently (7 to 10 occasions)
+C4k,5,Very frequently (more than 10 occasions)
+C4l,1,Never
+C4l,2,Rarely (1 to 3 occasions)
+C4l,3,Sometimes (4 to 6 occasions)
+C4l,4,Frequently (7 to 10 occasions)
+C4l,5,Very frequently (more than 10 occasions)
+C4m,1,Never
+C4m,2,Rarely (1 to 3 occasions)
+C4m,3,Sometimes (4 to 6 occasions)
+C4m,4,Frequently (7 to 10 occasions)
+C4m,5,Very frequently (more than 10 occasions)
+C4n,1,Never
+C4n,2,Rarely (1 to 3 occasions)
+C4n,3,Sometimes (4 to 6 occasions)
+C4n,4,Frequently (7 to 10 occasions)
+C4n,5,Very frequently (more than 10 occasions)
+C4o,1,Never
+C4o,2,Rarely (1 to 3 occasions)
+C4o,3,Sometimes (4 to 6 occasions)
+C4o,4,Frequently (7 to 10 occasions)
+C4o,5,Very frequently (more than 10 occasions)
+C4ii,1,In all instances
+C4ii,2,"For some, but not all instances"
+C4ii,3,Never
+C4ii,4,Did not know how to report it
+C5,1,Yes
+C5,2,No
+C6,1,Yes
+C6,2,No
+C6,3,Not sure
+C6ai,1,Indicated
+C6aii,1,Indicated
+C6aiii,1,Indicated
+C6aiv,1,Indicated
+C6av,1,Indicated
+C6avi,1,Indicated
+C6avii,1,Indicated
+C6aviii,1,Indicated
+C6aix,1,Indicated
+C6ax,1,Indicated
+C6axi,1,Indicated
+C7,1,Yes
+C7,2,No
+C8,1,Yes
+C8,2,No
+C8,3,"No, but know where to find out"
+C9,1,Always
+C9,2,Sometimes
+C9,3,Never
+C9,4,Do not know
+D1,1,Male
+D1,2,Female
+D3,1,Primary/secondary school or technical/trade certificate or diploma
+D3,2,University qualification
+D8,1,"Less than $60,000"
+D8,2,"$60,000 to 79,999"
+D8,3,"$80,000 to 109,999"
+D8,4,"$110,00 to 159,999"
+D8,5,"$160,000 and over"
+D14,1,Yes
+D14,2,No
+AgencySize,1,Less than 200 employees
+AgencySize,2,200 to 1000 employees
+AgencySize,3,More than 1000 employees
