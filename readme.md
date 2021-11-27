@@ -13,15 +13,15 @@ More and more global companies are embracing workplace gender diversity. Are the
 In this project, I analyzed the Public Sector Employee Perception Survey data conducted by the Western Australia Public Sector Commission in 2015, available in [this link](https://data.gov.au/data/organization/public-sector-commission-wa). Using the data, I examined if there are gender gaps in job satisfaction, salary and career opportunities within the WA public sector. This analysis could be useful for improving leadership, culture and diversity in the public sector, with the potential to boost productivity and promote ehtical decision making. You can see the exploratory data analysis in [SurveyData.ipynb](https://github.com/alex-cplee/data-projects/blob/main/2%20Public%20Sector%20Survey/SurveyData.ipynb).
 
 ### Analytical techniques
-This project was generated using the Jupyter Notebook. Data cleaning, visualisation and manipulation were carried out using Python and its libraries. 
+This project was generated using the Jupyter Notebook. Data was stored into a local MySQL server and relevant data was retrieved using SQL queries. Data cleaning was carried out using SQL queries and data visualisation and manipulation were carried out using Python and its libraries. 
 
 Various methods were used, including ANOVA, Student's t-test, Pearson correlation analysis, hierarchical clustering and cronbach's alpha.
 
-If you wish to rerun the notebook in your environment, make sure you have the following libraries installed:
+If you wish to rerun the notebook in your environment, make sure you have access to a local SQL server (or cloud SQL server, as long as you have connection to it) and the following libraries installed in Jupyter Notebook:
 
+- ipython-sql
 - pandas 
 - numpy 
-- textwrap
 - matplotlib.pyplot
 - seaborn as sns
 - scipy 
