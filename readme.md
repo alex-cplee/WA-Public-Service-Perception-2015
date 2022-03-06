@@ -2,9 +2,6 @@
 
 ***By Alex Lee***
 
-__Project status: under development__
-
-
 ### Description
 <img align="right" src="/../main/Graphics/WA_Perth_Parliament.jpg" width="300" height="240"></img>
 
